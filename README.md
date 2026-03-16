@@ -1,5 +1,5 @@
 # Philippines Ranked as USDA Top Rice Importer: Assessing the Country's Agricultural Identity
-
+Link: https://drive.google.com/file/d/1KvGXkS31km9H7_azqyQw1BNdCAIJMu1Z/view?usp=sharing
 ## Project Overview
 This project analyzes rice production trends in the Philippines and investigates the country's increasing reliance on rice imports. Despite being a rice-centric nation where rice is a staple food in most meals, the Philippines has become the world's largest rice importer. This analysis explores production trends, consumption patterns, and agricultural challenges that contribute to this issue.
 
